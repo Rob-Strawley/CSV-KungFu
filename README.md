@@ -1,7 +1,7 @@
 ## CSV-KungFu ##
 An assortment of useful scripts for CSV files.
 
-# ++ChangeColumnHeaders++#
+#++ChangeColumnHeaders++#
 This script Changes the Column Headers of an existing Worksheet to Headers of your choosing.
 
 #++ReplaceTextCSV++#
